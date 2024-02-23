@@ -5,7 +5,7 @@ if n > 10:
 elif n < 10:
     print('menor que 10')
 else:
-    print('igualque10')
+    print('igual que 10')
 
 #1.
 n=10
